@@ -1,9 +1,17 @@
-/**
- * @name LunariTheme
- * @author Hi ! 
- * @description Describe the aesthetic. Maybe a support server link.
- * @version 0.0.1
- */
+/* Error: Can't find stylesheet to import.
+ *   ,
+ * 5 | @import "./components";
+ *   |         ^^^^^^^^^^^^^^
+ *   '
+ *   src\main.scss 5:9  root stylesheet */
 
-/*# sourceMappingURL=myTheme.theme.css.map */
-@import url("https://akavalk.github.io/MyTheme/dist/myTheme.theme.css");
+body::before {
+  font-family: "Source Code Pro", "SF Mono", Monaco, Inconsolata, "Fira Mono",
+      "Droid Sans Mono", monospace, monospace;
+  white-space: pre;
+  display: block;
+  padding: 1em;
+  margin-bottom: 1em;
+  border-bottom: 2px solid black;
+  content: "Error: Can't find stylesheet to import.\a   \2577 \a 5 \2502  @import \"./components\";\d\a   \2502          ^^^^^^^^^^^^^^\a   \2575 \a   src\\main.scss 5:9  root stylesheet";
+}
