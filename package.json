@@ -4,7 +4,7 @@
   "description": "Theme Discord",
   "main": "index.js",
   "scripts": {
-    "sass": "sass --watch src/main.scss dist/myTheme.theme.css",
+    "sass": "sass --watch src/main.scss dist/myTheme.css",
     "build": "postcss src/index.css -o dist/import.css",
     "build-prod": "postcss --env production src/index.css -o dist/import.css"
   },
