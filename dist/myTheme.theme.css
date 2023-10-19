@@ -1,7 +1,8 @@
-/**
- * @name LunariTheme
- * @author Hi ! 
- * @description Describe the aesthetic. Maybe a support server link.
- * @version 0.0.1
- */
- @import url("https://akavalk.github.io/MyTheme/dist/myTheme.css");
+#app-mount .bg-1QIAus {
+  background-color: #8e6ba4;
+}
+#app-mount .wordmarkWindows-1rsity {
+  color: white;
+}
+
+/*# sourceMappingURL=myTheme.theme.css.map */
