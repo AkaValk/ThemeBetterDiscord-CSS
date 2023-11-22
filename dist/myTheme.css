@@ -4,16 +4,16 @@
 #app-mount .guildSeparator_dcb3cc {
   background-color: #fff;
 }
-#app-mount .base__3e6af .container__5c7e7 .tabBody_b3d268 .nowPlayingColumn_f5023f .itemCard__1f162 {
-  background-color: #001AA2;
-}
-#app-mount .base__3e6af .container__5c7e7 .tabBody_b3d268 .nowPlayingColumn_f5023f .itemCard__1f162 .body__83069, #app-mount .base__3e6af .container__5c7e7 .tabBody_b3d268 .nowPlayingColumn_f5023f .itemCard__1f162 .section_efc22d {
-  background-color: #004EA2;
-}
-
 .searchBar_e4ea2a .searchBarComponent__22760 {
   color: #004EA2;
   background-color: #fff;
+}
+
+.tabBody_b3d268 .nowPlayingColumn_f5023f .itemCard__1f162 {
+  background-color: #001AA2;
+}
+.tabBody_b3d268 .nowPlayingColumn_f5023f .itemCard__1f162 .body__83069, .tabBody_b3d268 .nowPlayingColumn_f5023f .itemCard__1f162 .section_efc22d {
+  background-color: #004EA2;
 }
 
 /*# sourceMappingURL=myTheme.css.map */

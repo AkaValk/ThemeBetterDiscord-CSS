@@ -49,22 +49,7 @@ background-color: #fff;
             }
         }
         // Main Section
-        .tabBody_b3d268{
-            // Friends 
-            .peopleColumn__51df3{
-                    
-            }
-            // Playing
-            .nowPlayingColumn_f5023f{
-                .itemCard__1f162 {
-                    background-color: #001AA2;
-                    //Activity 
-                    .body__83069, .section_efc22d{
-                        background-color: #004EA2;
-                    }
-                }
-            }
-        }
+      
     }
 }
 
@@ -77,4 +62,21 @@ background-color: #fff;
          background-color: #fff;
     }
 
+}
+
+.tabBody_b3d268{
+    // Friends 
+    .peopleColumn__51df3{
+            
+    }
+    // Playing
+    .nowPlayingColumn_f5023f{
+        .itemCard__1f162 {
+            background-color: #001AA2;
+            //Activity 
+            .body__83069, .section_efc22d{
+                background-color: #004EA2;
+            }
+        }
+    }
 }
