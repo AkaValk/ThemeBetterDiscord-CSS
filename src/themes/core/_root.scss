@@ -44,12 +44,6 @@ background-color:  #004EA2;
 .container_ca50b9{
 background-color:  #004EA2;
 }
-.expandedFolderBackground__1bec6{
-background-color: #fff;
-}
-.expandedFolderBackground__1bec6  .listItem_fa7b36{
-background-color: red;
-}
 
 .bg__12180{
 background-color: #003671;
@@ -57,8 +51,20 @@ color: #fff;
 }
 
 
-// Bouton Télécharger
+// Bouton Télécharger // Ajout serveur
 .circleIconButton_d8df29{
     color: #004EA2;
     background-color: #fff;
+}
+
+//Dossier 
+.expandedFolderBackground__1bec6{
+    background-color: #fff;
+}
+.expandedFolderIconWrapper__458cf{
+    background-color:#00356f;
+    
+}
+.expandedFolderIconWrapper__458cf  svg{
+    color: #fff;
 }
