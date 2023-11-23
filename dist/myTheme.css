@@ -4,16 +4,56 @@
 #app-mount .guildSeparator_dcb3cc {
   background-color: #fff;
 }
+
+.body__83069, .section_efc22d {
+  background-color: #004EA2;
+}
+
 .searchBar_e4ea2a .searchBarComponent__22760 {
   color: #004EA2;
   background-color: #fff;
 }
 
-.tabBody_b3d268 .nowPlayingColumn_f5023f .itemCard__1f162 {
-  background-color: #001AA2;
+.bg__12180 {
+  background-color: #003671;
+  color: #fff;
 }
-.tabBody_b3d268 .nowPlayingColumn_f5023f .itemCard__1f162 .body__83069, .tabBody_b3d268 .nowPlayingColumn_f5023f .itemCard__1f162 .section_efc22d {
+
+.circleIconButton_d8df29 {
+  color: #004EA2;
+  background-color: #fff;
+}
+
+.expandedFolderBackground__1bec6 {
+  background-color: #fff;
+}
+
+.expandedFolderIconWrapper__458cf {
+  background-color: #00356f;
+}
+
+.expandedFolderIconWrapper__458cf svg {
+  color: #fff;
+}
+
+.content__23cab {
   background-color: #004EA2;
+}
+
+.privateChannelsHeaderContainer_ddcec6 {
+  color: #fff;
+}
+
+.content_f767b8 {
+  color: #fff;
+}
+
+.interactiveSelected_ec846b {
+  background-color: #004EA2;
+}
+
+.avatarWithText__17e10 {
+  color: #fff;
 }
 
 /*# sourceMappingURL=myTheme.css.map */
