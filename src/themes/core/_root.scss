@@ -8,75 +8,50 @@ background-color: #fff;
 }
 // Icone Serveur
 
-.base__3e6af{
-    .sidebar_ded4b5{
-        // Liste Amis et Search Bar
-        .privateChannels__93473{
-               //  Liste amis
-               .scroller__4b984{
-                    // Liste
-                .channel_c21703{
-
-                }
-                //Title 
-                .privateChannelsHeaderContainer_ddcec6{
-
-                }
-               }
-               
-        }
-        // Menu Vocal
-        .panels__58331{
-            // Icone
-            .flex_f5fbb7{
-                button{
-
-                }
-            }
-        }
-      
-    }   
-    // Main Content 
-    .container__5c7e7{
-        //Upper Container
-        .container__11d72{
-            .children__32014{
-
-            }
-            //ToolBar
-            .toolbar__88c63{
-
-            }
-        }
-        // Main Section
-      
-    }
+}
+  
+.body__83069, .section_efc22d{
+    background-color: #004EA2;
 }
 
+.searchBar_e4ea2a .searchBarComponent__22760{
+color: #004EA2 ;
+background-color: #fff;
+}
+.privateChannels__93473{
+background-color: #004EA2;
+}   
+.content__23cab{
+background-color:#004EA2 ;
 
 }
-  // Search Bar Left
-  .searchBar_e4ea2a{
-    .searchBarComponent__22760{
-         color: #004EA2 ;
-         background-color: #fff;
-    }
-
+.content_f767b8{
+color: #fff;
+}
+.interactiveSelected_ec846b{
+background-color:#004EA2;
+}
+.linkButtonIcon__2f35b{
+color: #fff;
 }
 
-.tabBody_b3d268{
-    // Friends 
-    .peopleColumn__51df3{
-            
-    }
-    // Playing
-    .nowPlayingColumn_f5023f{
-        .itemCard__1f162 {
-            background-color: #001AA2;
-            //Activity 
-            .body__83069, .section_efc22d{
-                background-color: #004EA2;
-            }
-        }
-    }
+.privateChannelsHeaderContainer_ddcec6{
+color: #fff;
+}
+.panels__58331{
+background-color:  #004EA2; 
+}
+.container_ca50b9{
+background-color:  #004EA2;
+}
+.expandedFolderBackground__1bec6{
+background-color: #fff;
+}
+.expandedFolderBackground__1bec6  .listItem_fa7b36{
+background-color: red;
+}
+
+.bg__12180{
+background-color: #003671;
+color: #fff;
 }
