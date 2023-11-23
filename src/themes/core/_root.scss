@@ -1,3 +1,12 @@
+// Window Bar
+.typeWindows__5fa63{
+    padding: 3px;
+    margin-top: 0;
+    background-color: #002956 ;
+}
+.wordmarkWindows__05c46{
+    color : #fff
+}
 #app-mount
 {   // Changement Couleur Baniere Discord
     .wrapper_a7e7a8{
@@ -41,17 +50,15 @@ color: #fff;
     background-color:#00356f;
     
 }
-.expandedFolderIconWrapper__458cf  svg{
-    color: #fff;
+.expandedFolderIconWrapper__458cf svg{
+    color: #fff !important;
 }
 
 // Messages Privés
 .theme-dark .scroller__4b984{
     background-color: #004EA2;
 }
-.content__23cab{
-    background-color: #004EA2;
-}   // Titre 
+  // Titre 
 .privateChannelsHeaderContainer_ddcec6{
     color: #fff;
     }
@@ -66,3 +73,141 @@ color: #fff;
 .avatarWithText__17e10{
         color : #fff
     }        
+    .theme-dark .container__590e2{
+        background-color: #004EA2;
+    }
+    .container__7c79d{
+        background-color: #004EA2;
+    }
+    .privateChannels__93473{
+        background-color: #004EA2;
+    }
+
+
+ /// Menu Vocal Utilisateur
+ .panels__58331{
+    background-color: #004EA2;
+ }
+ .theme-dark .container_ca50b9{
+    background-color: #004EA2;
+ }   
+ // Icone Menu 
+ button.button__4f306{
+    color: #fff;
+ }
+
+
+ // Liste Amis
+ 
+    .tabBody_b3d268{
+        background: url("https://i.imgur.com/cqe8lOy.png") lightgray 50%;
+        background-size: cover;
+        background-repeat: no-repeat;
+        backdrop-filter: blur(5px);         
+        }
+
+ // Nav TOP
+ .theme-dark .themed_b152d4{
+    background-color: #004EA2;
+ }
+ .icon__4cb88{
+    color: #fff;
+ }
+ .divider_c09b64{
+    background-color: #fff;
+ }
+ .topPill__0cdf1 .themed_b957e8.selected__5711d.item__48dda{
+    background-color: #0067d5;
+}
+.children__32014:after{
+    height: 0;    
+}
+
+
+// Main
+.tabBody_b3d268::before{
+    
+}
+// Now Playing
+.itemCard__1f162{
+    background: #001AA2;
+}
+.container__0a6a9{
+    background-color: transparent;
+}
+.nowPlayingColumn_f5023f{
+    background-color: transparent;
+}
+
+// People List Separator
+.peopleListItem_d14722{
+    border-top-color: #fff ;
+}
+// People List actions
+.icon__7215c{
+    color: #004EA2;
+}
+.actionButton__23182{
+    background-color: #fff;
+}
+// People List Recherche
+.searchBar_ff8800{
+    background-color: #fff ;
+
+}
+.input__74754{
+    color: #004EA2 ;
+}
+// Icone Discord
+.childWrapper__01b9c{
+    color: #004EA2;
+    background-color: #fff;
+}
+// Channels
+.name__8d1ec{
+    color: #fff;
+}
+.sectionDivider__68d2a{
+    background-color: #fff;
+}
+.icon_eff5d4{
+    color: #fff;
+}
+.icon_ef4486, .container_de798d, .button_afdfd9, .username__73ce9{
+    color: #fff;
+}
+.clickable_d23a1a .icon__4cb88{
+    color: #fff;
+}
+    //Search Channel
+    .searchBar_e0c60b{
+        color: #004EA2;
+        background-color: #fff;
+    }
+    .content__1a4fe{
+        background: url("https://i.imgur.com/cqe8lOy.png") lightgray 50%;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    .members__9f47b{
+        background: transparent;
+    }
+    .container__93316{
+        background: transparent;
+    }
+    .overlayContainer_b3bf6b{
+        background: transparent;
+    }
+
+
+//Notifications
+.base__92a12{
+    background-color: #fff;
+    color: #004EA2;
+}
+
+
+// Activity 
+.theme-dark .panel_bd8c76{
+    background-color: #004EA2;
+}
