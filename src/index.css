@@ -1,0 +1,40 @@
+@import "./friendlist.css";
+@import "./modal.css";
+@import "./nav.css";
+@import "./notification.css";
+@import "./server.css";
+@import "./setting.css";
+@import "./user.css";
+
+/** Window Bar*/
+.typeWindows__5fa63{
+    padding: 3px;
+    margin-top: 0;
+    background-color: #002956 ;
+}
+.wordmarkWindows__05c46{
+    color : #fff
+}
+
+
+/**Declaration Variables*/
+:root{
+    --bg-primary : #00296b;
+    --bg-secondary : #00317f;
+    --bg-tertiary : #004EA2; 
+    --bg-notification : #fff;
+    --text-color : #fff;
+    --inverse-text-color : #00296b; 
+    --icone-color : #fff;
+    --bg-image : "https://i.imgur.com/cqe8lOy.png";
+    --separator-color : #fff;
+    --bg-hover : #004EA2;
+    --selected-color : #004EA2;
+    --selected-bg : #fff; 
+    /*overlay*/ 
+    /*btn*/
+
+}
+
+
+

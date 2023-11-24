@@ -1,0 +1,64 @@
+/** Now Playing*/
+.itemCard__1f162{
+    background: #001AA2;
+}
+.container__0a6a9{
+    background-color: transparent;
+}
+.nowPlayingColumn_f5023f{
+    background-color: transparent;
+}
+
+/** People List Separator*/
+.peopleListItem_d14722{
+    border-top-color: #fff ;
+}
+/** People List actions*/
+.icon__7215c{
+    color: #004EA2;
+}
+.actionButton__23182{
+    background-color: #fff;
+}
+/** People List Recherche*/
+.searchBar_ff8800{
+    background-color: #fff ;
+}
+/** SearchBar Left*/
+.searchBar_e4ea2a .searchBarComponent__22760{
+    color: #004EA2 ;
+    background-color: #fff;
+    }
+      
+.bg__12180{
+    background-color: #003671;
+    color: #fff;
+    }
+/** Liste Amis*/
+.tabBody_b3d268{
+    background: url("https://i.imgur.com/cqe8lOy.png") lightgray 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    backdrop-filter: blur(5px);         
+    }
+/** Icones */   
+.avatarWithText__17e10{
+    color : #fff
+}        
+.theme-dark .container__590e2{
+    background-color: #004EA2;
+}
+.container__7c79d{
+    background-color: #004EA2;
+}
+.privateChannels__93473{
+    background-color: #004EA2;
+}
+/** Messages Privés*/
+.theme-dark .scroller__4b984{
+    background-color: #004EA2;
+}
+/** Titre */
+.privateChannelsHeaderContainer_ddcec6{
+    color: #fff;
+    }

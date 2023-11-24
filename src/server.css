@@ -1,0 +1,64 @@
+/**Search Channel*/
+    .searchBar_e0c60b{
+        color: #004EA2;
+        background-color: #fff;
+    }
+    .content__1a4fe{
+        background: url("https://i.imgur.com/cqe8lOy.png") lightgray 50%;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    .container_b2ce9c{
+        background:transparent;
+    }
+    .container__93316{
+        background: transparent;
+    }
+    .chatContent__5dca8{
+        background-color: transparent;
+    }
+    .overlayContainer_b3bf6b{
+        background: transparent;
+    }
+/** Message*/
+    .theme-dark .form__13a2c:before{
+        background-color: transparent;
+    }
+    .channelTextArea__2e60f{
+        background-color: #005EA2 ;
+    }
+    .themedBackground__6b1b6{
+        background-color: #005EA2 ;      
+    }
+    .textArea__74543, .placeholder_e68c63 {
+        color : #fff
+    }
+/**Member Server*/
+    .member_b44d5d{
+        background-color: #001AA2;
+    }
+/** Channels*/
+    .name__8d1ec{
+        color: #fff;
+    }
+    .sectionDivider__68d2a{
+        background-color: #fff;
+    }
+    .icon_eff5d4{
+        color: #fff;
+    }
+    .icon_ef4486, .container_de798d, .button_afdfd9, .username__73ce9{
+        color: #fff;
+    }
+    .clickable_d23a1a .icon__4cb88{
+        color: #fff;
+    }
+/**Channel Selected*/
+    .interactiveSelected_ec846b{
+        background-color:#004EA2;
+        }
+/** Icone Serveur*/
+.body__83069, .section_efc22d{
+    background-color: #004EA2;
+}    
+        
