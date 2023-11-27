@@ -128,8 +128,8 @@
    }
 /**Notifications Nav*/
 .base__92a12{
-    background-color: #fff;
-    color: #004EA2;
+    background-color: var(--bg-reverse) !important;
+    color: var(--inverse-text-color);
 }
 /**Search Channel*/
 .searchBar_e0c60b{
