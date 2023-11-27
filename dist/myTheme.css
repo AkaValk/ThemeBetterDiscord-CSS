@@ -237,7 +237,10 @@ color: #fff;
 }
 /** Icone Menu Stream */
 button.button__4f306{
-   color: var(--disabled);
+   color: var(--icone-color);
+}
+.button_afdfd9:disabled, .button_afdfd9[aria-disabled=true]{
+    color: var(--disabled);
 }
 /** Activity */
 .theme-dark .panel_bd8c76{
