@@ -109,7 +109,7 @@
         background-color: var(--text-color);
     }
 .expandedFolderIconWrapper__458cf{
-        background-color:#00356f;
+        background-color: var(--bg-secondary);
         
     }
 .expandedFolderIconWrapper__458cf svg{
@@ -265,9 +265,6 @@ color: #fff;
 }
 .sidebarRegionScroller__1fa7e{
     background-color: transparent;
-}
-.contentRegion__0bec1{
-    background: none;
 }
 .contentRegionScroller__86c79{
     background-color: transparent;

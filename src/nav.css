@@ -18,7 +18,7 @@
         background-color: var(--text-color);
     }
     .expandedFolderIconWrapper__458cf{
-        background-color:#00356f;
+        background-color: var(--bg-secondary);
         
     }
     .expandedFolderIconWrapper__458cf svg{
