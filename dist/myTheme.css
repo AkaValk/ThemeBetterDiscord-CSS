@@ -164,7 +164,7 @@
         background-color: #005EA2 ;
     }
 .themedBackground__6b1b6{
-        background-color: #005EA2 ;      
+        background-color: var(--bg-secondary) ;      
     }
 .textArea__74543, .placeholder_e68c63 {
         color : #fff
@@ -194,7 +194,7 @@
     }
 /**Channel Selected*/
 .interactiveSelected_ec846b{
-        background-color:#004EA2;
+        background-color: var(--bg-tertiary);
         }
 /** Icone Serveur*/
 /** Paramètres*/
