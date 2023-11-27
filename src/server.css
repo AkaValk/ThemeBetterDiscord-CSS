@@ -34,7 +34,7 @@
     }
 /** Message*/
     .theme-dark .form__13a2c:before{
-        background-color: transparent;
+        background: none;
     }
     .channelTextArea__2e60f{
         background-color: var(--bg-secondary) ;
