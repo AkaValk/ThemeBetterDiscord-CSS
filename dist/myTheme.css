@@ -174,10 +174,11 @@
         background: none;
     }
 .member_b44d5d{
-        background-color: var(--bg-secondary);
+        background-color: var(--bg-reverse);
     }
 .membersGroup__85843{
-        background-color: var(--bg-secondary);
+        background-color: var(--bg-reverse);
+        color: var(--inverse-text);
     }
 /** Channels*/
 .name__8d1ec{
@@ -277,11 +278,11 @@ button.button__4f306.enabled__470f0:hover{
     background-image: linear-gradient(to top,transparent,transparent var(--text-color),transparent var(--text-color),transparent var(--text-color),transparent var(--text-color));
 }
 .button_afdfd9 .contents_fb6220:hover{
-    background-color: linear-gradient(to top,transparent,transparent var(--inverse-text-color),transparent var(---inverse-text-color),transparent var(--inverse-text-color),transparent var(--inverse-text-color));
+    background-color: linear-gradient(to top,transparent,transparent var(--inverse-text),transparent var(---inverse-text),transparent var(--inverse-text),transparent var(--inverse-text));
 }
 /**Titre*/
 .labelWrapper_a0c350 .button_afdfd9 .contents_fb6220 {
-    color: var(---inverse-text-color) ;
+    color: var(---inverse-text) ;
     /*background-image: linear-gradient(to top,transparent,transparent var(--inverse-text-color),transparent var(--inverse-text-color),transparent var(--inverse-text-color),transparent var(--inverse-text-color));*/
    
 }
@@ -302,7 +303,7 @@ button.button__4f306.enabled__470f0:hover{
     --bg-reverse : #fff;
 
     --text-color : #fff;
-    --inverse-text-color : #00296b; 
+    --inverse-text : #00296b; 
 
     --disabled : #6F6F6F; 
     --icone-color : #1B2684;

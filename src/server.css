@@ -38,10 +38,11 @@
         background: none;
     } 
     .member_b44d5d{
-        background-color: var(--bg-secondary);
+        background-color: var(--bg-reverse);
     }
     .membersGroup__85843{
-        background-color: var(--bg-secondary);
+        background-color: var(--bg-reverse);
+        color: var(--inverse-text);
     }
 /** Channels*/
     .name__8d1ec{

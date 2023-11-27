@@ -49,11 +49,11 @@ button.button__4f306.enabled__470f0:hover{
 }
 
 .button_afdfd9 .contents_fb6220:hover{
-    background-color: linear-gradient(to top,transparent,transparent var(--inverse-text-color),transparent var(---inverse-text-color),transparent var(--inverse-text-color),transparent var(--inverse-text-color));
+    background-color: linear-gradient(to top,transparent,transparent var(--inverse-text),transparent var(---inverse-text),transparent var(--inverse-text),transparent var(--inverse-text));
 }
 /**Titre*/
 .labelWrapper_a0c350 .button_afdfd9 .contents_fb6220 {
-    color: var(---inverse-text-color) ;
+    color: var(---inverse-text) ;
     /*background-image: linear-gradient(to top,transparent,transparent var(--inverse-text-color),transparent var(--inverse-text-color),transparent var(--inverse-text-color),transparent var(--inverse-text-color));*/
    
 }
