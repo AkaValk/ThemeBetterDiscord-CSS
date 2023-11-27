@@ -265,14 +265,18 @@ button.button__4f306.enabled__470f0:hover{
 /**Button Menu vocal*/
 .button__66e8c .buttonColor_a6eb73, .button__66e8c.buttonColor_a6eb73{
     background-color: var(--bg-primary);
-    color: var(--icone-color-reverse);
 }
 .button__66e8c .buttonColor_a6eb73:hover, .button__66e8c.buttonColor_a6eb73:hover{
     background-color: var(--bg-reverse);
-    color: var(--icone-color-reverse);
+    
 }
-.contents_fb6220{
-    background: #fff;
+.button_afdfd9 .contents_fb6220 {
+    --button--underline-color: transparent;
+    background-image: linear-gradient(to top,transparent,transparent var(--text-color),transparent var(--text-color),transparent var(--text-color),transparent var(--text-color));
+   
+}
+.button_afdfd9 .contents_fb6220:hover{
+    background-image: linear-gradient(to top,transparent,transparent var(--inverse-text-color),transparent var(--inverse-text-color),transparent var(--inverse-text-color),transparent var(--inverse-text-color));
 }
 /** Window Bar*/
 .typeWindows__5fa63{
