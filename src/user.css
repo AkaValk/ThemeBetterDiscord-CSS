@@ -43,12 +43,10 @@ button.button__4f306.enabled__470f0:hover{
     background-color: var(--bg-reverse);
     
 }
+/**Titre*/
 .button_afdfd9 .contents_fb6220 {
     --button--underline-color: transparent;
-    background-image: linear-gradient(to top,transparent,transparent var(--text-color),transparent var(--text-color),transparent var(--text-color),transparent var(--text-color));
-   
-}
-.button_afdfd9 .contents_fb6220:hover{
     background-image: linear-gradient(to top,transparent,transparent var(--inverse-text-color),transparent var(--inverse-text-color),transparent var(--inverse-text-color),transparent var(--inverse-text-color));
+   
 }
 
