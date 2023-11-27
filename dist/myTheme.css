@@ -270,8 +270,14 @@ button.button__4f306.enabled__470f0:hover{
     background-color: var(--bg-reverse);
     
 }
+.button_afdfd9 .contents_fb6220{
+    background-image: linear-gradient(to top,transparent,transparent var(--text-color),transparent var(--text-color),transparent var(--text-color),transparent var(--text-color));
+}
+.button_afdfd9 .contents_fb6220:hover{
+    background-color: linear-gradient(to top,transparent,transparent var(--inverse-text-color),transparent var(---inverse-text-color),transparent var(--inverse-text-color),transparent var(--inverse-text-color));
+}
 /**Titre*/
-.button_afdfd9 .contents_fb6220 {
+.labelWrapper_a0c350 .button_afdfd9 .contents_fb6220 {
     --button--underline-color: transparent;
     background-image: linear-gradient(to top,transparent,transparent var(--inverse-text-color),transparent var(--inverse-text-color),transparent var(--inverse-text-color),transparent var(--inverse-text-color));
    
