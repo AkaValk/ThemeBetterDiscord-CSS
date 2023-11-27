@@ -1,9 +1,9 @@
 /** Menu Vocal Utilisateur*/
 .panels__58331{
-   background-color: #004EA2;
+   background-color: var(--bg-reverse);
 }
 .theme-dark .container_ca50b9{
-   background-color: #004EA2;
+   background-color: var(--bg-primary);
 }   
 /** Icone Menu */
 button.button__4f306{
@@ -11,5 +11,12 @@ button.button__4f306{
 }
 /** Activity */
 .theme-dark .panel_bd8c76{
-    background-color: #004EA2;
+    background-color: var(--bg-reverse);
+}
+.text-sm-normal_e612c7{
+    font-weight: 800;
+    color: var(--inverse-text-color) ;
+}
+.button.button__4f306{
+    color: var(--inverse-text-color) ;
 }

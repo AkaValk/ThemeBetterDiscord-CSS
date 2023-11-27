@@ -4,7 +4,7 @@
         background-color: #fff;
     }
     .content__1a4fe{
-        background: url("https://i.imgur.com/cqe8lOy.png") lightgray 50%;
+        background: var(--bg-image);
         background-size: cover;
         background-repeat: no-repeat;
     }

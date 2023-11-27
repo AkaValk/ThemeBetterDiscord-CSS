@@ -15,7 +15,7 @@
 }
 /** People List actions*/
 .icon__7215c{
-    color: #004EA2;
+    color: var(--bg-primary);
 }
 .actionButton__23182{
     background-color: #fff;
@@ -36,27 +36,27 @@
     }
 /** Liste Amis*/
 .tabBody_b3d268{
-    background: url("https://i.imgur.com/cqe8lOy.png") lightgray 50%;
+    background: var(--bg-image) ;
     background-size: cover;
     background-repeat: no-repeat;
-    backdrop-filter: blur(5px);         
+             
     }
 /** Icones */   
 .avatarWithText__17e10{
     color : #fff
 }        
 .theme-dark .container__590e2{
-    background-color: #004EA2;
+    background-color: var(--bg-primary);
 }
 .container__7c79d{
-    background-color: #004EA2;
+    background-color: var(--bg-primary);
 }
 .privateChannels__93473{
-    background-color: #004EA2;
+    background-color: var(--bg-primary);
 }
 /** Messages Privés*/
 .theme-dark .scroller__4b984{
-    background-color: #004EA2;
+    background-color: var(--bg-primary);
 }
 /** Titre */
 .privateChannelsHeaderContainer_ddcec6{

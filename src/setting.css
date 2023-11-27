@@ -1,6 +1,6 @@
 /** Paramètres*/
 .standardSidebarView__1129a{
-    background: url("https://i.imgur.com/cqe8lOy.png") lightgray 90%;
+    background: var(--bg-image);
 }
 .sidebarRegion__60457{
     background-color:   rgba(0, 78, 162, 0.2);

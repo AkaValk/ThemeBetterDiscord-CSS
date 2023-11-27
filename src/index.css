@@ -19,14 +19,15 @@
 
 /**Declaration Variables*/
 :root{
-    --bg-primary : #00296b;
+    --bg-primary : #1B2681; 
     --bg-secondary : #00317f;
     --bg-tertiary : #004EA2; 
-    --bg-notification : #fff;
+    --bg-reverse : #fff;
     --text-color : #fff;
+    
     --inverse-text-color : #00296b; 
     --icone-color : #fff;
-    --bg-image : "https://i.imgur.com/cqe8lOy.png";
+    --bg-image : url("https://i.imgur.com/cqe8lOy.png");
     --separator-color : #fff;
     --bg-hover : #004EA2;
     --selected-color : #004EA2;
