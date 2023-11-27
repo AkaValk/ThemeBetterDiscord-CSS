@@ -105,7 +105,7 @@
         background-color: #fff;
         }
 .wrapper_a7e7a8{
-        background-color: #004EA2;
+        background-color: var(--bg-primary);
         }
 /** Nav TOP*/
 .theme-dark .themed_b152d4{
