@@ -81,18 +81,18 @@
   }
 /**Icone Discord / Hover /Selected*/
 .childWrapper__01b9c ,  .wrapper_d281dd:hover .childWrapper__01b9c, .wrapper_d281dd.selected_f5ec8e .childWrapper__01b9c{
-    color: #004EA2;
-    background-color: #fff
+    color: var(--icone-color);
+    background-color: var(--text-color)
 }
 /** Bouton Télécharger */
 /**Ajout serveur*/
 .circleIconButton_d8df29{
-        color: #004EA2;
-        background-color: #fff;
+        color: var(--icone-color);
+        background-color: var(--text-color);
     }
 /**Dossier */
 .expandedFolderBackground__1bec6{
-        background-color: #fff;
+        background-color: var(--text-color);
     }
 .expandedFolderIconWrapper__458cf{
         background-color:#00356f;
@@ -112,10 +112,10 @@
        background-color: var(--bg-primary);
     }
 .icon__4cb88{
-       color: #fff;
+       color: var(--text-color);
     }
 .divider_c09b64{
-       background-color: #fff;
+       background-color: var(--bg-reverse);
     }
 .topPill__0cdf1 .themed_b957e8.selected__5711d.item__48dda{
        background-color: #0067d5;
