@@ -1,35 +1,5 @@
-/** Now Playing*/
-.itemCard__1f162{
-    background: #001AA2;
-}
-.container__0a6a9{
-    background-color: transparent;
-}
-.nowPlayingColumn_f5023f{
-    background-color: transparent;
-}
-/** People List Separator*/
-.peopleListItem_d14722{
-    border-top-color: #fff ;
-}
-/** People List actions*/
-.icon__7215c{
-    color: var(--bg-primary);
-}
-.actionButton__23182{
-    background-color: #fff;
-}
-/** People List Recherche*/
-.searchBar_ff8800{
-    background-color: #fff ;
-}
-/** SearchBar Left*/
-.searchBar_e4ea2a .searchBarComponent__22760{
-    color: #004EA2 ;
-    background-color: #fff;
-    }
 .bg__12180{
-    background-color: #003671;
+    background-color: var(--bg-primary);
     color: #fff;
     }
 /** Liste Amis*/
@@ -39,9 +9,42 @@
     background-repeat: no-repeat;
              
     }
+.container__0a6a9{
+        background-color: transparent;
+    }
+.nowPlayingColumn_f5023f{
+        background-color: transparent;
+    }
+/** Now Playing*/
+.itemCard__1f162{
+    background: var(--bg-secondary);
+}
+.body__83069, .section_efc22d{
+    background-color: var(--bg-tertiary);
+}
+/** People List Separator*/
+.peopleListItem_d14722{
+    border-top-color: var(--bg-reverse) ;
+}
+/** People List actions*/
+.icon__7215c{
+    color: var(--bg-primary);
+}
+.actionButton__23182{
+    background-color: var(--icon-color-reverse);
+}
+/** People List Recherche*/
+.searchBar_ff8800{
+    background-color: #fff ;
+}
+/** SearchBar Left*/
+.searchBar_e4ea2a .searchBarComponent__22760{
+    color: #004EA2 ;
+    background-color: var(--bg-reverse);
+    }
 /** Icones */
 .avatarWithText__17e10{
-    color : #fff
+    color : var(--icon-color-reverse)
 }
 .theme-dark .container__590e2{
     background-color: var(--bg-primary);
@@ -58,8 +61,8 @@
 }
 /** Titre */
 .privateChannelsHeaderContainer_ddcec6{
-    color: #fff;
-    }
+    color: var(--text-color);
+}
 /** MODAL UTILISATEUR */
 .userProfileInnerThemedNonPremium__3d0a6::before {
     content: "";
@@ -278,8 +281,8 @@ button.button__4f306.enabled__470f0:hover{
 }
 /**Titre*/
 .labelWrapper_a0c350 .button_afdfd9 .contents_fb6220 {
-    --button--underline-color: transparent;
-    background-image: linear-gradient(to top,transparent,transparent var(--inverse-text-color),transparent var(--inverse-text-color),transparent var(--inverse-text-color),transparent var(--inverse-text-color));
+    color: var(---inverse-text-color) ;
+    /*background-image: linear-gradient(to top,transparent,transparent var(--inverse-text-color),transparent var(--inverse-text-color),transparent var(--inverse-text-color),transparent var(--inverse-text-color));*/
    
 }
 /** Window Bar*/
