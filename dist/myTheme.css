@@ -242,6 +242,11 @@ button.button__4f306{
 .button_afdfd9:disabled, .button_afdfd9[aria-disabled=true]{
     color: var(--disabled);
 }
+/**Hover Icones */
+button.button__4f306.enabled__470f0:hover{
+     color : var(--icone-color-reverse);
+     background-color: var(--bg-primary);
+}
 /** Activity */
 .theme-dark .panel_bd8c76{
     background-color: var(--bg-reverse);
@@ -265,13 +270,17 @@ button.button__4f306{
 /**Declaration Variables*/
 :root{
     --bg-primary : #1B2681; 
+    
     --bg-secondary : #00317f;
     --bg-tertiary : #004EA2; 
     --bg-reverse : #fff;
     --text-color : #fff;
-    --disabled : #6F6F6F; 
+   
     --inverse-text-color : #00296b; 
-    --icone-color : #fff;
+    
+    --disabled : #6F6F6F; 
+    --icone-color : #1B2684;
+    
     --bg-image : url("https://i.imgur.com/cqe8lOy.png");
     --separator-color : #fff;
     --bg-hover : #004EA2;

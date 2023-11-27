@@ -5,6 +5,7 @@
 .theme-dark .container_ca50b9{
    background-color: var(--bg-reverse);
 }   
+
 /** Icone Menu Stream */
 button.button__4f306{
    color: var(--icone-color);
@@ -12,6 +13,12 @@ button.button__4f306{
 .button_afdfd9:disabled, .button_afdfd9[aria-disabled=true]{
     color: var(--disabled);
 }
+/**Hover Icones */
+button.button__4f306.enabled__470f0:hover{
+     color : var(--icone-color-reverse);
+     background-color: var(--bg-primary);
+}
+
 /** Activity */
 .theme-dark .panel_bd8c76{
     background-color: var(--bg-reverse);
@@ -23,3 +30,4 @@ button.button__4f306{
 .button.button__4f306{
     color: var(--inverse-text-color) ;
 }
+
