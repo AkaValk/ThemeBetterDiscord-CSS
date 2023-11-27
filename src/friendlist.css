@@ -3,12 +3,22 @@
     color: #fff;
     }
 /** Liste Amis*/
-.tabBody_b3d268{
-    background: var(--bg-image) ;
-    background-size: cover;
-    background-repeat: no-repeat;
-             
-    }    
+
+    .tabBody_b3d268::before {
+        content: "";
+        position: fixed;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        background-image: var(--bg-image) ;
+        width: 100%;
+        height: 100%;
+        filter: brightness(70%);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+      }
 .container__0a6a9{
         background-color: transparent;
     }
@@ -36,7 +46,7 @@
     color: var(--bg-primary);
 }
 .actionButton__23182{
-    background-color: var(--icon-color-reverse);
+    background-color: var(--bg-reverse);
 }
 /** People List Recherche*/
 .searchBar_ff8800{

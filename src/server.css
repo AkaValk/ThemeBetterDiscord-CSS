@@ -3,11 +3,22 @@
         color: #004EA2;
         background-color: #fff;
     }
-    .content__1a4fe{
-        background: var(--bg-image);
-        background-size: cover;
-        background-repeat: no-repeat;
-    }
+.content__1a4fe::before {
+        content: "";
+        position: fixed;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        background-image: var(--bg-image) ;
+        width: 100%;
+        height: 100%;
+        filter: brightness(70%);
+          background-repeat: no-repeat;
+          background-size: cover;
+          background-position: center;
+      }
+    
     .container_b2ce9c{
         background:transparent;
     }
