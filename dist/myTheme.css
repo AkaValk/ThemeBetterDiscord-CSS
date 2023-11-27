@@ -228,7 +228,7 @@ color: #fff;
 .contentRegionScroller__86c79{
     background-color: transparent;
 }
-/** Menu Vocal Utilisateur*/
+/** Menu Options Utilisateur*/
 .panels__58331{
    background-color: var(--bg-reverse);
 }
@@ -257,6 +257,22 @@ button.button__4f306.enabled__470f0:hover{
 }
 .button.button__4f306{
     color: var(--inverse-text-color) ;
+}
+/**Menu Vocal**/
+.container_d667ff{
+    background-color: var(--bg-reverse);
+}
+/**Button Menu vocal*/
+.button__66e8c .buttonColor_a6eb73, .button__66e8c.buttonColor_a6eb73{
+    background-color: var(--bg-primary);
+    color: var(--icone-color-reverse);
+}
+.button__66e8c .buttonColor_a6eb73:hover, .button__66e8c.buttonColor_a6eb73:hover{
+    background-color: var(--bg-reverse);
+    color: var(--icone-color-reverse);
+}
+.contents_fb6220{
+    background: #fff;
 }
 /** Window Bar*/
 .typeWindows__5fa63{
