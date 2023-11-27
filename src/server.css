@@ -38,12 +38,12 @@
         background: none;
     } 
     .member_b44d5d{
-        background-color: var(--bg-reverse);
+        background-color: var(--bg-secondary);
         border-radius: 0px;
     }
     .membersGroup__85843{
         margin-left: 8px ;
-        background-color: var(--bg-reverse);
+        background-color: var(--bg-secondary);
         margin-top: 30px ;  
         max-width: 224px;
         border-top-right-radius: 8px;
@@ -51,7 +51,7 @@
         color: var(--inverse-text) !important;
         
     }
-    .member_aa4760  ~ .membersGroup__85843{
+    .member_aa4760  ~ .membersGroup__85843 .member_aa4760{
         border-bottom-left-radius: 8px ;
         border-bottom-right-radius: 8px;
     }         
