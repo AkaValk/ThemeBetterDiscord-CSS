@@ -19,10 +19,9 @@
 
 /**Declaration Variables*/
 :root{
-    --bg-primary : #1B2681; 
-    
-    --bg-secondary : #00317f;
-    --bg-tertiary : #004EA2; 
+    --bg-primary : #1B2681;  
+    --bg-secondary : #313b8d;
+    --bg-tertiary : #48519a; 
     --bg-reverse : #fff;
 
     --text-color : #fff;

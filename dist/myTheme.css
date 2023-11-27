@@ -197,9 +197,6 @@
         background-color:#004EA2;
         }
 /** Icone Serveur*/
-.body__83069, .section_efc22d{
-    background-color: #004EA2;
-}
 /** Paramètres*/
 .standardSidebarView__1129a{
     background: var(--bg-image);
@@ -296,10 +293,9 @@ button.button__4f306.enabled__470f0:hover{
 }
 /**Declaration Variables*/
 :root{
-    --bg-primary : #1B2681; 
-    
-    --bg-secondary : #00317f;
-    --bg-tertiary : #004EA2; 
+    --bg-primary : #1B2681;  
+    --bg-secondary : #313b8d;
+    --bg-tertiary : #48519a; 
     --bg-reverse : #fff;
 
     --text-color : #fff;
