@@ -44,7 +44,7 @@
     }
 /** Icones */
 .avatarWithText__17e10{
-    color : var(--icon-color-reverse)
+    color : var(--icone-color-reverse)
 }
 .theme-dark .container__590e2{
     background-color: var(--bg-primary);
@@ -178,8 +178,15 @@
     }
 .membersGroup__85843{
         background-color: var(--bg-reverse);
-        margin-top: 30px ;
+        margin-top: 30px ;  
+        max-width: 224px;
+        border-top-right-radius: 8px;
+        border-top-left-radius: 8px;
         
+    }
+.member_aa4760  ~ .membersGroup__85843{
+        border-bottom-left-radius: 8px ;
+        border-bottom-right-radius: 8px;
     }
 .icon_ef4486, .container_de798d, .button_afdfd9, .username__73ce9{
         color: var(--inverse-text);
@@ -286,7 +293,7 @@ button.button__4f306.enabled__470f0:hover{
 }
 /**Titre*/
 .labelWrapper_a0c350 .button_afdfd9 .contents_fb6220 {
-    color: var(---inverse-text) ;
+    color: var(--inverse-text) ;
     /*background-image: linear-gradient(to top,transparent,transparent var(--inverse-text-color),transparent var(--inverse-text-color),transparent var(--inverse-text-color),transparent var(--inverse-text-color));*/
    
 }

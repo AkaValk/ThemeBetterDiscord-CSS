@@ -42,9 +42,16 @@
     }
     .membersGroup__85843{
         background-color: var(--bg-reverse);
-        margin-top: 30px ;
+        margin-top: 30px ;  
+        max-width: 224px;
+        border-top-right-radius: 8px;
+        border-top-left-radius: 8px;
         
     }
+    .member_aa4760  ~ .membersGroup__85843{
+        border-bottom-left-radius: 8px ;
+        border-bottom-right-radius: 8px;
+    }         
     .icon_ef4486, .container_de798d, .button_afdfd9, .username__73ce9{
         color: var(--inverse-text);
     }
