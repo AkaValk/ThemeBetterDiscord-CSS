@@ -175,6 +175,7 @@
     }
 .member_b44d5d{
         background-color: var(--bg-reverse);
+        border-radius: 0px;
     }
 .membersGroup__85843{
         background-color: var(--bg-reverse);
@@ -182,6 +183,7 @@
         max-width: 224px;
         border-top-right-radius: 8px;
         border-top-left-radius: 8px;
+        color: var(--inverse-text);
         
     }
 .member_aa4760  ~ .membersGroup__85843{
