@@ -1,8 +1,9 @@
 
-/** Icone Discord*/
-.childWrapper__01b9c{
+
+/**Icone Discord / Hover /Selected*/
+.childWrapper__01b9c ,  .wrapper_d281dd:hover .childWrapper__01b9c, .wrapper_d281dd.selected_f5ec8e .childWrapper__01b9c{
     color: #004EA2;
-    background-color: #fff;
+    background-color: #fff
 }
 
     /** Bouton Télécharger */
