@@ -34,7 +34,7 @@
 
 /** Nav TOP*/
     .theme-dark .themed_b152d4{
-       background-color: #004EA2;
+       background-color: var(--bg-primary);
     }
     .icon__4cb88{
        color: #fff;
