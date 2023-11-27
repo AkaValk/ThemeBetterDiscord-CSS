@@ -25,7 +25,7 @@
         background-color: transparent;
     }
     .channelTextArea__2e60f{
-        background-color: #005EA2 ;
+        background-color: var(--bg-secondary) ;
     }
     .themedBackground__6b1b6{
         background-color: var(--bg-secondary) ;      
@@ -38,7 +38,10 @@
         background: none;
     } 
     .member_b44d5d{
-        background-color: #001AA2;
+        background-color: var(--bg-secondary);
+    }
+    .membersGroup__85843{
+        background-color: var(--bg-secondary);
     }
 /** Channels*/
     .name__8d1ec{
