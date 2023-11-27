@@ -5,9 +5,9 @@
 .theme-dark .container_ca50b9{
    background-color: var(--bg-primary);
 }   
-/** Icone Menu */
+/** Icone Menu Stream */
 button.button__4f306{
-   color: #fff;
+   color: var(--disabled);
 }
 /** Activity */
 .theme-dark .panel_bd8c76{
