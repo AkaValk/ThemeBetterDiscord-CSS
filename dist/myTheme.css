@@ -5,7 +5,7 @@
 /** Liste Amis*/
 .tabBody_b3d268::before {
         content: "";
-        position: fixed;
+        position: absolute;
         top: 0;
         right: 0;
         bottom: 0;
@@ -17,6 +17,8 @@
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center;
+        z-index: 0;
+
       }
 .container__0a6a9{
         background-color: transparent;
@@ -150,7 +152,7 @@
     }
 .content__1a4fe::before {
         content: "";
-        position: fixed;
+        position: absolute;
         top: 0;
         right: 0;
         bottom: 0;
@@ -162,6 +164,7 @@
           background-repeat: no-repeat;
           background-size: cover;
           background-position: center;
+          z-index: 0;
       }
 .container_b2ce9c{
         background:transparent;
@@ -234,6 +237,10 @@
         background-color: var(--bg-tertiary);
         }
 /** Icone Serveur*/
+/**Messages*/
+.markup_a7e664{
+    color: var(--text-color);
+}
 /** Paramètres*/
 .standardSidebarView__1129a{
     background: var(--bg-image);

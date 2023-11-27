@@ -5,7 +5,7 @@
     }
 .content__1a4fe::before {
         content: "";
-        position: fixed;
+        position: absolute;
         top: 0;
         right: 0;
         bottom: 0;
@@ -17,6 +17,7 @@
           background-repeat: no-repeat;
           background-size: cover;
           background-position: center;
+          z-index: 0;
       }
     
     .container_b2ce9c{
@@ -90,5 +91,8 @@
         background-color: var(--bg-tertiary);
         }
 /** Icone Serveur*/
-
+/**Messages*/
+.markup_a7e664{
+    color: var(--text-color);
+}
         

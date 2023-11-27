@@ -6,7 +6,7 @@
 
     .tabBody_b3d268::before {
         content: "";
-        position: fixed;
+        position: absolute;
         top: 0;
         right: 0;
         bottom: 0;
@@ -18,6 +18,8 @@
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center;
+        z-index: 0;
+
       }
 .container__0a6a9{
         background-color: transparent;
